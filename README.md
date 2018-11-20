@@ -4,6 +4,11 @@
 
 It's the start of a CityEngine library where I'll share some of our simple building block rule files.   
 Some of the best rule and most used CityEngine rules are simple in regards to what they are doing, take for example the ESRI.lib Plant or text rules.  Focused and useful they allow an end user to focus on the project itself not a small but sometimes visually important aspect such as a tree.
+## Added
+- assets folder **Simple models and textures reference in rule files will be stored here**
+- helper folder **This will have MS Excel files I use to construct some rule files with**
+- rules folder **This will be organised by rule type (TBD)**
+- scripts folder **Helper python scripts to organise and construct**
 
 ## What GD3D.lib is not.
 Well it's not as yet intended as a complete and complex CityEngine project such as the [Complete Streets Rule by David Wasserman](https://github.com/d-wasserman/Complete_Street_Rule).  **It's also a work in progress!**
